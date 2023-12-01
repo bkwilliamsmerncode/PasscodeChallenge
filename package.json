@@ -1,0 +1,11 @@
+{
+  "name": "passcodechallenge",
+  "version": "1.0.0",
+  "description": "passcode challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Williams",
+  "license": "ISC"
+}
